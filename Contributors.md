@@ -44,6 +44,7 @@ Mazin
   [Romila Mukul]: the greatest of all ;
 - [Lalu]
 - [Laura N](https://github.com/lnezsierra/)
+- [ranjiGT](https://github.com/ranjiGT)
 - [Piyush Gupta](https://github.com/Piyush495)
 - [JalCoder](https://github.com/jalCoder463)
 - [Lauri H](https://github.com/madpoet81)
@@ -3163,3 +3164,4 @@ Oiloo
 - [Nitish Sharma] (https://github.com/Nitish-sharma99)
 - Aditi Khare (https://github.com/khareaditi16)
 - Shreya Mahesh | India | AIML Student | AI/ML, Web Dev
+- [snow](https://github.com/Snowtimes)
